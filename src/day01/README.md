@@ -16,7 +16,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each
 day in the Advent calendar; the second puzzle is unlocked when you complete
 the first. Each puzzle grants **one star**. Good luck!
 
-## [Part One](https://adventofcode.com/2020/day/1#part1) - [TypeScript](./index.ts#L8)
+## [Part One](https://adventofcode.com/2020/day/1#part1) - [TypeScript](./index.ts#L7)
 
 Before you leave, the Elves in accounting just need you to fix your
 **expense report** (your puzzle input); apparently, something isn't quite
@@ -45,7 +45,7 @@ Of course, your expense report is much larger. **Find the two entries that**
 
 Your puzzle answer was `719796`.
 
-## [Part Two](https://adventofcode.com/2020/day/1#part2) - [TypeScript](./index.ts#L21)
+## [Part Two](https://adventofcode.com/2020/day/1#part2) - [TypeScript](./index.ts#L20)
 
 The Elves in accounting are thankful for your help; one of them even offers
 you a starfish coin they had left over from a past vacation. They offer you a
